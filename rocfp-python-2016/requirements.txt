@@ -1,7 +1,0 @@
-setuptools
-ipython[all]
-jupyter[all]
-jupyter_core
-jinja2
-pymonad
-https://github.com/damianavila/RISE/archive/master.zip
